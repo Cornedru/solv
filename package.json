@@ -1,8 +1,0 @@
-{
-  "name": "turnstile-test",
-  "version": "1.0.0",
-  "description": "Cloudflare Turnstile captcha test page",
-  "scripts": {
-    "dev": "npx serve -p 3000"
-  }
-}
